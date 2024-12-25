@@ -1,0 +1,3 @@
+# Coding Assistant Documentation
+
+This is a sample documentation file for the coding assistant server. You can add more documentation files here for the server to use.
