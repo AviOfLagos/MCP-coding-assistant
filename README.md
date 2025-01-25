@@ -1,4 +1,5 @@
 # Coding Assistant Server
+[![smithery badge](https://smithery.ai/badge/coding-assistant-server)](https://smithery.ai/server/coding-assistant-server)
 
 The Coding Assistant Server is an MCP (Model Context Protocol) server that enhances the capabilities of the Cline coding agent. It provides intelligent code suggestions, reduces hallucinations, and documents the knowledge base by leveraging your project's documentation and detecting the technologies used in your codebase.
 
@@ -12,6 +13,14 @@ The Coding Assistant Server is an MCP (Model Context Protocol) server that enhan
 * **Multiple Documentation Sources** : Accepts multiple documents and links to enrich the knowledge base.
 
 ## Installation
+
+### Installing via Smithery
+
+To install Coding Assistant Server for Cline automatically via [Smithery](https://smithery.ai/server/coding-assistant-server):
+
+```bash
+npx -y @smithery/cli install coding-assistant-server --client cline
+```
 
 ### Prerequisites
 
