@@ -19,6 +19,7 @@
     "express-rate-limit": "^6.7.0",
     "http": "0.0.1-security",
     "langchain": "*",
+    "mcp-evals": "^1.0.18",
     "ws": "^8.13.0"
   },
   "devDependencies": {
